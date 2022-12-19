@@ -20,5 +20,9 @@
   
 - Compile the NachOS
   - ```cd /home/<username>/nachos-4.0/code```
-  - ```sudo make clean```
-  - ```sudo make ```
+  - ```make clean```
+  - ```make ```
+
+- Test NachOS
+  - ```cd userprog```
+  - ```./nachos –e ../test/test1```

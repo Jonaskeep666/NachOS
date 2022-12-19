@@ -2,7 +2,7 @@
 
 ## Set up
 
-- Get Ubuntu 14.04.0 LTS
+- Get Ubuntu 14.04.0 LTS (32 bits)
 - Prepare te NachOS 4.0 Package and the cross compiler as well
   - [Folder] nachos-4.0 or [File] nachos-4.0.tar.gz 
     (Put the folder in /home/<username>)

@@ -15,7 +15,7 @@
 - Set up the dependency
   - ```sudo apt-get install csh```
   - ```sudo apt-get install g++```
-  - ```sudo cp -r /home/<username>/nachos-4.0/usr/local/ /usr/local```
+  - ```sudo cp -r /home/<username>/nachos-4.0/usr/local/ /usr```
   (If it works, you'll see the nachos folder in /usr/local )
   
 - Compile the NachOS

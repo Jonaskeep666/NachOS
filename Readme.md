@@ -1,6 +1,22 @@
-# NachOS
+# NachOS (2022.12.20)
 
-## Set up
+## Environment
+
+- HW: Macbook pro 16 (2019) i7-9750H
+
+- Virtual Machine
+  - Virtual BOX
+    - Free
+    - Incredibly slow (Even though I've set the resolution to low.)
+    - It's not available to install Virtual BOX Tools (It got stuck while reboot after installing the Tools.)
+  - VMWare Fusion Player
+    - Free (For personal use)
+    - Much faster (That's what I use now.)
+    - It's available to install Virtual BOX Tools (Shared Folder isn't available)
+    
+- Virtual OS: 14.04.0 LTS (32 bits) ( ≤ 14.04.0)
+
+## Set up 
 
 - Get Ubuntu 14.04.0 LTS (32 bits)
 - Prepare te NachOS 4.0 Package and the cross compiler as well

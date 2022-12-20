@@ -2,17 +2,21 @@
 
 ## Environment
 
-- HW: Macbook pro 16 (2019) i7-9750H
+- HW: Macbook pro 16 (2019) i7-9750H with macOS 12.4
 
 - Virtual Machine
-  - Virtual BOX
+  - Virtual BOX 7.0.4
     - Free
     - Incredibly slow (Even though I've set the resolution to low.)
-    - It's not available to install Virtual BOX Tools (It got stuck while reboot after installing the Tools.)
-  - VMWare Fusion Player
+    - It doesn't work properly after installing Virtual BOX Tools.
+  - VMWare Fusion Player 13.0.0
     - Free (For personal use)
     - Much faster (That's what I'm using now.)
-    - It's available to install Virtual BOX Tools (Shared Folder isn't available)
+    - I successfully install VMWare Tools but the Shared Folder isn't available.
+  - Parallels Desktop 18.1.1
+    - Paid
+    - Much faster
+    - I can't successfully install PD Tools on Ubuntu 14.04. (It got stuck while reboot after installing the Tools.)
     
 - Virtual OS: 14.04.0 LTS (32 bits) ( ≤ 14.04.0)
 

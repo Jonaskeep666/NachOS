@@ -11,7 +11,7 @@
     - It's not available to install Virtual BOX Tools (It got stuck while reboot after installing the Tools.)
   - VMWare Fusion Player
     - Free (For personal use)
-    - Much faster (That's what I use now.)
+    - Much faster (That's what I'm using now.)
     - It's available to install Virtual BOX Tools (Shared Folder isn't available)
     
 - Virtual OS: 14.04.0 LTS (32 bits) ( ≤ 14.04.0)

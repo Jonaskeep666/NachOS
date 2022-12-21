@@ -8,7 +8,7 @@
 - Original version for 32bits Linux
 - Source: Farn's OS class, Nation Taiwan University
 
-### Environment
+### A.1 Environment
 
 - Virtual OS: 14.04.0 LTS (32 bits) (I don't update anymore...)
 
@@ -26,7 +26,7 @@
     - Much faster
     - I can't successfully install PD Tools on Ubuntu 14.04. (It got stuck while reboot after installing the Tools.)
 
-### Build NachOS
+### A.2 Build NachOS
 
 - Prepare the NachOS 4.0 Package and the cross compiler as well
   - [File] nachos-4.0.tar.gz 
@@ -54,7 +54,7 @@
   - ```cd userprog```
   - ```./nachos –e ../test/test1```
   
-### Build & Run Test Programs
+### A.3 Build & Run Test Programs
 
 - Compile the test program (ex. halt.c)
   - ```cd /home/<username>/nachos-4.0/code/test```
@@ -71,7 +71,7 @@
 - Source: shawn2000100/10810CS_342301_OperatingSystem & Jerry's OS class, National Tsing Hua University
 
 
-### Environment
+### B.1 Environment
 
 - Virtual OS: Red Hat Enterprise Linux 9 (RHEL 9 x86_64)
 
@@ -80,7 +80,7 @@
     - I successfully install PD Tools but the "Drag & Drop" does't work.
     - I just use Share Folder instead.
 
-### Build NachOS
+### B.2 Build NachOS
 
 - Prepare the NachOS 4.0 Package with the cross compiler as well
   - [File] NachOS-4.0_MP1.tar.gz
@@ -95,10 +95,9 @@
   - ```sudo cp -r /home/<username>/nachos-4.0/usr/local/ /usr```
   (If it works, you'll see the nachos folder in /usr/local )
   
-  - ```sudo chmod -R 777 /home/vbox/NachOS-4.0_MP1/usr/local
-       sudo chmod -R 777 /home/vbox/NachOS-4.0_MP1/coff2noff
-       sudo chmod -R 777 /usr/local/nachos
-	```
+  - ```sudo chmod -R 777 /home/vbox/NachOS-4.0_MP1/usr/local```
+  - ```sudo chmod -R 777 /home/vbox/NachOS-4.0_MP1/coff2noff```
+  - ```sudo chmod -R 777 /usr/local/nachos```
   
 - Compile the NachOS kernel
   - ```cd /home/<username>/NachOS-4.0_MP1/code/build.linux```
@@ -110,7 +109,7 @@
   - ```./nachos –u```
   - ```./nachos –e ../test/halt```
   
-### Build & Run Test Programs
+### B.3 Build & Run Test Programs
 
 - Compile the test program (ex. halt.c)
   - ```cd /home/<username>/NachOS-4.0_MP1/code/test```
@@ -122,7 +121,7 @@
 
 ---
 
-## Some errors
+## [C] Some errors
 - If the Terminal shows something wrong about list.cc
   -> Revising sth like : isEmpty() to this->isEmpty
 - If /usr/bin/ld: cannot find libstdc++
@@ -137,7 +136,7 @@
 
 ---
 
-# Ref
+## [D] Ref
 - shawn2000100/10810CS_342301_OperatingSystem & Jerry's OS class, National Tsing Hua University
 - Farn's OS class, Nation Taiwan University
 

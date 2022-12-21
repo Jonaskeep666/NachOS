@@ -1,4 +1,4 @@
-# How to install NachOS (2022.12.20)
+# How to install NachOS (2022.12.21)
 
 - HW: Macbook pro 16 (2019) i7-9750H with macOS 12.4
 

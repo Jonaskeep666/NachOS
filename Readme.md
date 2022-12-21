@@ -4,7 +4,7 @@
 
 ---
 
-## NachOS-4.0 ver 1 
+## [A] NachOS-4.0 ver 1 
 - Original version for 32bits Linux
 - Source: Farn's OS class, Nation Taiwan University
 
@@ -66,7 +66,7 @@
 
 ---
 
-## NachOS-4.0 ver 2 
+## [B] NachOS-4.0 ver 2 
 - Modified version for 64bits Linux
 - Source: shawn2000100/10810CS_342301_OperatingSystem & Jerry's OS class, National Tsing Hua University
 
@@ -97,7 +97,8 @@
   
   - ```sudo chmod -R 777 /home/vbox/NachOS-4.0_MP1/usr/local
        sudo chmod -R 777 /home/vbox/NachOS-4.0_MP1/coff2noff
-       sudo chmod -R 777 /usr/local/nachos```
+       sudo chmod -R 777 /usr/local/nachos
+	```
   
 - Compile the NachOS kernel
   - ```cd /home/<username>/NachOS-4.0_MP1/code/build.linux```

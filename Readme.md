@@ -123,16 +123,17 @@
 
 ## [C] Some errors
 - If the Terminal shows something wrong about list.cc
-  -> Revising sth like : isEmpty() to this->isEmpty
+  - Revising sth like : isEmpty() to this->isEmpty
 - If /usr/bin/ld: cannot find libstdc++
-  -> sudo yum install libstdc++.i686
-- If it shows "... -I- ... -iquote instead" -> It doesn't matter
+  - ```sudo yum install libstdc++.i686```
+- If it shows "... -I- ... -iquote instead" 
+  - It doesn't matter
 - make: ../../usr/local/nachos/bin/decstation-ultrix-gcc: ...
-	-> sudo chmod -R 777 /home/vbox/NachOS-4.0_MP1/usr/local
+  - ```sudo chmod -R 777 /home/vbox/NachOS-4.0_MP1/usr/local```
 - decstation-ultrix-gcc: installation problem, cannot exec `cc1': ?????????
-	-> sudo chmod -R 777 /home/vbox/NachOS-4.0_MP1/coff2noff
+  - ```sudo chmod -R 777 /home/vbox/NachOS-4.0_MP1/coff2noff```
 - make: ../../coff2noff/coff2noff.x86Linux:...
-	-> sudo chmod -R 777 /usr/local/nachos
+  - ```sudo chmod -R 777 /usr/local/nachos```
 
 ---
 

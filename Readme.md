@@ -4,7 +4,7 @@
 
 ---
 
-## [A] NachOS-4.0 ver 1 
+## [A] NachOS-4.0 (32bits ver)
 - Original version for 32bits Linux
 - Source: Farn's OS class, Nation Taiwan University
 
@@ -66,7 +66,7 @@
 
 ---
 
-## [B] NachOS-4.0 ver 2 
+## [B] NachOS-4.0 (64bits ver)
 - Modified version for 64bits Linux
 - Source: shawn2000100/10810CS_342301_OperatingSystem & Jerry's OS class, National Tsing Hua University
 

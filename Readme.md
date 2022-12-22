@@ -68,7 +68,7 @@
 
 ## [B] NachOS-4.0 (64bits ver)
 - Modified version for 64bits Linux
-- Source: shawn2000100/10810CS_342301_OperatingSystem & Jerry's OS class, National Tsing Hua University
+- Source: shawn2000100/10810CS_342301_OperatingSystem & Dr.Chou's OS class, National Tsing Hua University
 
 
 ### B.1 Environment
@@ -138,7 +138,7 @@
 ---
 
 ## [D] Ref
-- shawn2000100/10810CS_342301_OperatingSystem & Jerry's OS class, National Tsing Hua University
+- shawn2000100/10810CS_342301_OperatingSystem & Dr.Chou's OS class, National Tsing Hua University
 - Farn's OS class, Nation Taiwan University
 
 - I'm so grateful for their dedication! It means a lot for autodidacts.
